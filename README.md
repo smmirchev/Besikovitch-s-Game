@@ -1,4 +1,4 @@
-## Besikovitch-s-Game
+## Besikovitch's Game
 
 <img src="https://raw.githubusercontent.com/smmirchev/Besikovitch-s-Game/master/Images/Game.png">
 
